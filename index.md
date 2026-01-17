@@ -22,24 +22,32 @@ nav_exclude: true
 
 </div>
 
-## Utbildning
-**Program / Utbildning** – Skola / Universitet  
-*År–År*
+</div>
 
-- Kort beskrivning av utbildningen
-- Viktiga kurser eller inriktning
+<h2>Utbildning</h2>
 
-**Gymnasieutbildning** – Skola  
-*År–År*
+<p><strong>Program / Utbildning</strong> – Skola / Universitet<br>
+<em>År–År</em></p>
 
----
+<ul>
+  <li>Kort beskrivning av utbildningen</li>
+  <li>Viktiga kurser eller inriktning</li>
+</ul>
 
-## Intressen
-- 💻 Programmering och teknik
-- 📊 Data och analys
-- 🏋️ Träning
-- 🎮 Spel
-- 📚 Lärande och självutveckling
+<p><strong>Gymnasieutbildning</strong> – Skola<br>
+<em>År–År</em></p>
+
+<hr>
+
+<h2>Intressen</h2>
+<ul>
+  <li>💻 Programmering och teknik</li>
+  <li>📊 Data och analys</li>
+  <li>🏋️ Träning</li>
+  <li>🎮 Spel</li>
+  <li>📚 Lärande och självutveckling</li>
+</ul>
+
 
 ## CV
 📄 [Ladda ner mitt CV](files/cv.pdf)
