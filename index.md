@@ -22,6 +22,8 @@ nav_exclude: true
 
 </div>
 
+<div style="margin-top:3rem;"></div>
+
 
 ## CV
 📄 [Ladda ner mitt CV](files/cv.pdf)
