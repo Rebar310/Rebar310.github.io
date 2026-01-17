@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Beccis
+title: Rebecca Arkhed
 ---
 
 <img src="Bildpamig.png" alt="Bild på mig" style="max-width:220px;border-radius:14px;">
@@ -16,5 +16,5 @@ Kort presentation om dig själv.
 - [Project 2](projects/project2.pdf)
 
 ## Kontakt
-- Email: din@mail.com
+- Email: Rebecca.arkhed@telia.com
 - GitHub: https://github.com/dittnamn
