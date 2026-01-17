@@ -20,6 +20,25 @@ nav_exclude: true
     </p>
   </div>
 
+## Utbildning
+**Program / Utbildning** – Skola / Universitet  
+*År–År*
+
+- Kort beskrivning av utbildningen
+- Viktiga kurser eller inriktning
+
+**Gymnasieutbildning** – Skola  
+*År–År*
+
+---
+
+## Intressen
+- 💻 Programmering och teknik
+- 📊 Data och analys
+- 🏋️ Träning
+- 🎮 Spel
+- 📚 Lärande och självutveckling
+
 </div>
 
 <div style="margin-top:3rem;"></div>
