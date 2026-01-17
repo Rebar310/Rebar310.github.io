@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ditt Namn
+title: Beccis
 ---
 
 <img src="Bildpamig.png" alt="Bild på mig" style="max-width:220px;border-radius:14px;">
