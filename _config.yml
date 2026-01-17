@@ -1,7 +1,5 @@
 title: Ditt Namn
 description: Resume & portfolio
 
-remote_theme: yaoyao-liu/minimal-light
-plugins:
-  - jekyll-remote-theme
+theme: minima
 
