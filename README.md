@@ -1,7 +1,8 @@
----
-layout: home
----
+theme: minima
+title: Ditt Namn
+description: Resume & portfolio
 
-# Hej!
-Min GitHub Pages-sida med Minima-temat.
+header_pages:
+  - resume.md
+
 
