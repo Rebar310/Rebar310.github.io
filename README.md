@@ -3,7 +3,7 @@ layout: page
 title: Ditt Namn
 ---
 
-<img src="Jag.jpg" alt="Bild på mig" style="max-width:220px;border-radius:14px;">
+<img src="Bildpamig.png" alt="Bild på mig" style="max-width:220px;border-radius:14px;">
 
 ## Om mig
 Kort presentation om dig själv.
