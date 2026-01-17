@@ -1,8 +1,13 @@
-theme: minima
-title: Ditt Namn
-description: Resume & portfolio
-
-header_pages:
-  - resume.md
+_config.yml
+index.md
+resume.md
+assets/
+  img/
+    jag.jpg
+files/
+  cv.pdf
+projects/
+  project1.pdf
+  project2.pdf
 
 
