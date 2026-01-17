@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rebecca Arkhed
+nav_exclude: true
 ---
 
 <div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap;">
