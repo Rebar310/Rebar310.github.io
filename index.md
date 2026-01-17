@@ -3,7 +3,7 @@ layout: page
 nav_exclude: true
 ---
 
-<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap;">
+<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap; margin-bottom:3rem;">
 
   <div style="flex:0 0 220px;">
     <img src="Bildpamig.png"
@@ -19,6 +19,8 @@ nav_exclude: true
       och automatiskt hamna under bilden på mobil.
     </p>
   </div>
+
+</div>
 
 ## Utbildning
 **Program / Utbildning** – Skola / Universitet  
@@ -38,11 +40,6 @@ nav_exclude: true
 - 🏋️ Träning
 - 🎮 Spel
 - 📚 Lärande och självutveckling
-
-</div>
-
-<div style="margin-top:3rem;"></div>
-
 
 ## CV
 📄 [Ladda ner mitt CV](files/cv.pdf)
